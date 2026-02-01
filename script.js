@@ -504,7 +504,7 @@ const ClipboardManager = {
 
 // ==================== CV DOWNLOAD MANAGER ====================
 const CVDownloadManager = {
-    cvFileName: 'Imam_cv.pdf',
+    cvFileName: 'Imam_CV.pdf',
 
     init() {
         // Setup CV download functionality
